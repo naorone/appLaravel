@@ -1,0 +1,13 @@
+.home{
+    padding-top: 50px;
+    background-color: lightgreen ;
+}
+
+.home p{
+    font-family: Raleway;
+    font-size: 60px;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 20px;
+    letter-spacing: 1px;
+}

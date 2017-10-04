@@ -1,0 +1,21 @@
+.registro{
+    padding-top: 20px;
+    width: 500px;
+    margin-left: 200px;
+
+}
+body{
+    background-color: #ECFAE7;
+}
+
+.titulo{
+    font-size: 30px;
+    font-family: Raleway;
+    letter-spacing: 1px;
+
+}
+
+form div label{
+    font-size: 18px;
+    font-family: Raleway;
+}
