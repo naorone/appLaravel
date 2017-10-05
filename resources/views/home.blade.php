@@ -1,12 +1,13 @@
 @extends('welcome')
 
-@include('Partials.header')
 @section('home')
 
 <div class="home">
-    <p>BIENVENIDO</p>
+    <p>BIENVENIDO A LA APLICACION</p>
 </div>
 
-
+<div class="imagen">
+    <img src="images/logo.png"/>
+</div>
 
 @stop
