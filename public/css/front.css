@@ -15,6 +15,9 @@ header{
     height: 70px;
     margin: auto;
 }
+body{
+    height: 1080px;
+}
 
 .logo{
     width: 30%;
