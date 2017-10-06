@@ -8,4 +8,5 @@
 
 
     @include('Partials.footer')
+    </body>
 </html>
