@@ -1,10 +1,6 @@
-<!doctype html>
-<html lang="{{ app()->getLocale() }}">
-    @include('Partials.head')
-    @include('Partials.header')
+@extends('welcome')
 
-    <body>
-
+@section('content')
     <div class="registro">
      <p class="titulo">REGISTRO NUEVO USUARIO</p>
 
@@ -39,9 +35,6 @@
 </form>
 </div>
 
-    </body>
-@include('Partials.footer')
-</html>
-
+@stop
 
 

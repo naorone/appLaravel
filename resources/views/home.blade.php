@@ -1,6 +1,6 @@
 @extends('welcome')
 
-@section('home')
+@section('content')
 
 <div class="home">
     <a id="#top"></a>

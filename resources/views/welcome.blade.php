@@ -4,7 +4,7 @@
     @include('Partials.header')
 
     <body>
-    @yield('home')
+    @yield('content')
 
 
     @include('Partials.footer')
