@@ -6,6 +6,6 @@
     <body>
     @yield('home')
 
-    </body>
+
     @include('Partials.footer')
 </html>

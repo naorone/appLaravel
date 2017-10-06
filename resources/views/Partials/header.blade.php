@@ -9,7 +9,7 @@
         <ul>
             <li><a href="/">INICIO</a></li>
             <li><a href="/registro">NUEVA CUENTA</a></li>
-            <li><a href="#">ENTRAR</a></li>
+            <li><a data>ENTRAR</a></li>
             <li><a href="#">CONTACTO</a></li>
         </ul>
     </nav>
