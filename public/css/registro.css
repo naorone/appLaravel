@@ -16,3 +16,8 @@ form div label{
     font-size: 18px;
     font-family: Raleway;
 }
+.alert{
+    color: red;
+    font-family: Raleway;
+    font-weight: bold;
+}

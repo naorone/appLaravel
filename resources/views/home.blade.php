@@ -7,6 +7,7 @@
     <p>BIENVENIDO A LA APLICACION</p>
 </div>
 
+
 <div class="imagen">
     <img src="images/logo.png"/>
 </div>
