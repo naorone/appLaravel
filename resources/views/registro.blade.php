@@ -1,4 +1,4 @@
-@extends('welcome')
+@extends('Layouts.layout')
 
 @section('content')
     <div class="registro">

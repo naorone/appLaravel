@@ -8,8 +8,6 @@
     <link href="css/bootstrap.css " rel="stylesheet" type="text/css">
     <link href="css/registro.css " rel="stylesheet" type="text/css">
     <link href="css/home.css" rel="stylesheet" type="text/css">
-
-
-
+    <script src="js/jquery-3.2.1.js"></script>
 
 </head>
